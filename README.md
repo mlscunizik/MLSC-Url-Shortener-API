@@ -1,6 +1,6 @@
 # Introduction 
 
-This is a Url Shortener **RESTful** API built **Django** for use within the Faraday Organization
+This is a Url Shortener **RESTful** API built **Django** for use within the Community.
 
 # Documentation 
 
